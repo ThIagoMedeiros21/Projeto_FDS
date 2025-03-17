@@ -1,7 +1,7 @@
 # The GymStats
 
 # Sobre Nós:
-
+Somos a GymStats somos uma microempresa focada em gerenciamento de sistemas de academia, garantindo uma melhor organização para a academia e ao usuário;
   
 
 
@@ -10,7 +10,7 @@
 
 # Links Gerais
 
-- **Jira:** 
+- **Jira:**  https://gymstatsfds.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiMjVlNGE0NjYxYjc1NDI5NzljOWUzZGMwOGNiYThiYmMiLCJwIjoiaiJ9
 - **Figma:** https://www.figma.com/design/oiquor1Q4tU8SUmTGrzlZf/GymStats?node-id=0-1&t=Knx4ZTRQ1qwj167U-1
 # Entrega 1️⃣
   
