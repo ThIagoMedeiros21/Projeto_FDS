@@ -1,6 +1,6 @@
 # The GymStats
 
-# Sobre Nós:
+Sobre Nós:
 Somos a GymStats somos uma microempresa focada em gerenciamento de sistemas de academia, garantindo uma melhor organização para a academia e ao usuário;
   
 
