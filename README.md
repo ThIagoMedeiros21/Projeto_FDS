@@ -16,7 +16,7 @@ Somos a GymStats somos uma microempresa focada em gerenciamento de sistemas de a
 # Entrega 1️⃣:
 ![alt text](<assets/WhatsApp Image 2025-03-17 at 14.17.02.jpeg>) 
 ![alt text](<assets/WhatsApp Image 2025-03-17 at 14.16.47.jpeg>)
-- Link da Screencast:...
+- Link da Screencast: https://www.youtube.com/watch?v=LmJOevTw4GU
   
 
 
